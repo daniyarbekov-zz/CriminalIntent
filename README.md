@@ -2,6 +2,8 @@
 
 Android-based mobile app done as a part of Big Nerd Ranch Guide series.
 
+It lets you create a series of "criminal activities" happened at your workspace by taking notes (where you describe an incident), choose a suspect, choose a date of an incident and taking photos to support your case. If you feel that you've collected enough evidence you can send a message to people in your "Contacts" app
+
 Concepts introduced and implemented:
 1) Fragments, Fragments Lifecycle and Fragments Arguments
 2) Communication between Fragments using Intents and Fragment Arguments
