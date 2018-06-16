@@ -1,4 +1,4 @@
-# CriminalIntent
+# CriminalIntent Android APP
 
 Android-based mobile app done as a part of Big Nerd Ranch Guide series.
 
